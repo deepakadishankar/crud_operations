@@ -30,7 +30,7 @@
           type="text"
           class="form-control"
           id="age"
-          required
+          required="requried"
           v-model="teacher.age"
           name="age"
         />
